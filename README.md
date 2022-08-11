@@ -1,4 +1,4 @@
-## hi, i'm Elias
+## hi, i'm Elias /* tip: use the dark theme for a better experience :) */
 
 <img src="https://i.imgur.com/xE5IUZX.png">
 <img src="https://i.imgur.com/AxAIvY0.png">
