@@ -4,7 +4,9 @@
 
 ##
 
-<img src="https://i.imgur.com/jLYpuGF.png">
+<a href="https://github.com/eliasnsz">
+  <img src="https://i.imgur.com/jLYpuGF.png">
+</a>
 
 <div align="center">
   <a href="https://www.instagram.com/eliasnsz/" target="_blank">
@@ -21,7 +23,10 @@
   </a>
 </div>
 
-<img src="https://i.imgur.com/AxAIvY0.png">
+<a href="https://github.com/eliasnsz">
+  <img src="https://i.imgur.com/AxAIvY0.png">
+</a>
+
 <div align="center">
   <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=eliasnsz&&show_icons=true&theme=omni">
   <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasnsz&layout=compact&theme=omni">
