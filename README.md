@@ -4,7 +4,7 @@
 
 ##
 
-<img src="https://i.imgur.com/xE5IUZX.png">
+<img src="https://i.imgur.com/J8U8VIk.png">
 <img src="https://i.imgur.com/AxAIvY0.png">
 
 <div align="center">
