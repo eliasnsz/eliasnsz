@@ -1,8 +1,8 @@
 ## Hi, I'm Elias Souza
 
 <div>
-  <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=eliasnsz&&show_icons=true&theme=omni">
-  <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasnsz&layout=compact&theme=omni">
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=eliasnsz&&show_icons=true&theme=omni">
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasnsz&layout=compact&theme=omni">
 </div>
 
 ##
