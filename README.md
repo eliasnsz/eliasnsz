@@ -1,4 +1,8 @@
-## hi, i'm Elias /* tip: use the dark theme for a better experience :) */
+<h1 align="center">hi, i'm Elias</h1>
+<p align="center">tip: use the dark theme for a better experience :)</p>
+
+
+##
 
 <img src="https://i.imgur.com/xE5IUZX.png">
 <img src="https://i.imgur.com/AxAIvY0.png">
