@@ -1,6 +1,6 @@
 ## Hi, I'm Elias Souza
 
-<img src="https://i.pinimg.com/originals/11/1a/03/111a03133d14214539c96e0f657dff1a.png">
+<img src="https://i.imgur.com/nsgeLnh.png">
 
 <div align="center">
   <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=eliasnsz&&show_icons=true&theme=omni">
