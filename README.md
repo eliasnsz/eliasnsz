@@ -5,7 +5,7 @@
 ##
 
 <a href="https://github.com/eliasnsz">
-  <img src="https://i.imgur.com/jLYpuGF.png">
+  <img src="https://i.imgur.com/bCp9Wd9.png">
 </a>
 
 <div align="center">
