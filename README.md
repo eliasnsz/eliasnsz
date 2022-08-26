@@ -6,9 +6,12 @@
 ##
 
 <a href="https://github.com/eliasnsz">
-  <img src="https://i.imgur.com/bCp9Wd9.png">
+  <img src="https://i.imgur.com/2EXtZha.png">
 </a>
-<div>
+<div align="center">
+   <a href="https://www.instagram.com/eliasnsz/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/elias-souza-522a95242/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
