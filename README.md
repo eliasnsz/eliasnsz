@@ -28,8 +28,8 @@
 </a>
 
 <div align="center">
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=eliasnsz&&show_icons=true&theme=omni">
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasnsz&layout=compact&theme=omni">
+  <img width="50%" height="180px" src="https://github-readme-stats.vercel.app/api?username=eliasnsz&&show_icons=true&theme=omni">
+  <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasnsz&layout=compact&theme=omni">
 </div>
   
 ##
