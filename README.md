@@ -1,6 +1,6 @@
 <h1 align="center">hi, i'm Elias</h1>
 <p align="center">tip: use the dark theme for a better experience :)</p>
-<p align="center">Portfólio: <a href="https://eliasnsz.com.br" target="_blank">eliasnsz.com.br</a> (Em construção)</p>
+<p align="center">Portfólio: <a href="https://eliasnsz.com.br" target="_blank">eliasnsz.com.br</a></p>
 
 
 ##
