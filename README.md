@@ -1,14 +1,10 @@
-<h1 align="center">hi, i'm Elias</h1>
-<p align="center">tip: use the dark theme for a better experience :)</p>
-<p align="center">Portfólio: <a href="https://eliasnsz.com.br" target="_blank">eliasnsz.com.br</a></p>
-
+## Elias Souza
+Tenho cerca de 2 anos de estudos acumulados e estou sempre buscando evolução. Minhas habilidades estão concentradas na stack de Javascript, especificamente com React, Next.js e Node.js.
+<div align="center">
 
 ##
 
-<a href="https://github.com/eliasnsz">
-  <img src="https://i.imgur.com/2EXtZha.png">
-</a>
-<div align="center">
+### Contato
    <a href="https://www.instagram.com/eliasnsz/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
@@ -21,17 +17,12 @@
   <a href="https://www.youtube.com/channel/UCy1RdDqSPBUV2X3gnI6--HA" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
-</div>
 
-<a href="https://github.com/eliasnsz">
-  <img src="https://i.imgur.com/AxAIvY0.png">
-</a>
+##
 
-<div align="center">
   <img width="50%" height="180px" src="https://github-readme-stats.vercel.app/api?username=eliasnsz&&show_icons=true&theme=omni">
   <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasnsz&layout=compact&theme=omni">
 </div>
-  
-##
+
 
 
