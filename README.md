@@ -8,4 +8,4 @@ Desenvolvedor Full-stack
 
 Vivendo um romance com a programação. Tenho mais de dois anos de experiência acumulada em estudo e projetos com a stack de JavaScript e sempre busco maneiras de aprimorar minhas habilidades.
 
-*"A única maneira de fazer algo com excelência é amar o que você faz". (Steve Jobs)*
+*"A única maneira de fazer algo com excelência é amar o que você faz. [...]" (Steve Jobs)*
