@@ -1,6 +1,6 @@
 ## Elias Souza
  
-Desenvolvedor Full-stack
+Engenheiro de Software
 
 [![Linkedin Badge](https://img.shields.io/badge/-Elias%20Souza-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliansz/)](https://www.linkedin.com/in/eliasnsz/) 
 [![Gmail Badge](https://img.shields.io/badge/-eliasnsz.dev@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliasnsz.dev@gmail.com)](mailto:eliasnsz.dev@gmail.com)
